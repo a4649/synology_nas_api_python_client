@@ -1,2 +1,1 @@
-# synology_nas
-Scripts to handle REST API of Synology NAS
+# Synology NAS REST API Python client
